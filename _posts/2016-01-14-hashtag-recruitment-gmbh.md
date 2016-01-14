@@ -1,0 +1,25 @@
+---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-14T12:11:37.279Z'
+dateModified: '2016-01-14T12:11:18.170Z'
+title: hashtag Recruitment GmbH
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-01-14-hashtag-recruitment-gmbh.md
+published: true
+_type: Blurb
+
+---
+Welcome to hashtag Recruitment!
