@@ -2,6 +2,7 @@ name: hashtag Recruitment
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.61765
+title: Home
 cta:
   domain: null
   bucket: null
