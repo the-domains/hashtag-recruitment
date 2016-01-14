@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T12:11:37.279Z'
-dateModified: '2016-01-14T12:11:18.170Z'
+datePublished: '2016-01-14T12:27:24.852Z'
+dateModified: '2016-01-14T12:26:19.342Z'
 title: hashtag Recruitment GmbH
 author: []
 authors: []
