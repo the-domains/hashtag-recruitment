@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T20:47:50.166Z'
-dateModified: '2016-01-27T20:46:27.740Z'
+datePublished: '2016-01-27T20:53:14.218Z'
+dateModified: '2016-01-27T20:53:09.887Z'
 title: hashtag Recruitment GmbH
 author: []
 sourcePath: _posts/2016-01-14-hashtag-recruitment-gmbh.md
@@ -21,5 +21,4 @@ publisher:
 _type: Blurb
 
 ---
-Welcome to hashtag Recruitment!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30b9be7b-ead1-446f-9135-42bf502c4f2f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad2d968c-d19b-4356-adac-5b4927256a8c.jpg)
