@@ -2,22 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-14T12:52:54.014Z'
-dateModified: '2016-01-14T12:28:13.795Z'
-title: hashtag Recruitment GmbH
+datePublished: '2016-01-27T20:36:22.529Z'
+dateModified: '2016-01-27T20:33:54.001Z'
+title: 'hashtag Recruitment GmbH, SWITZERLAND'
 author: []
+sourcePath: _posts/2016-01-14-hashtag-recruitment-gmbh.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-14-hashtag-recruitment-gmbh.md
-published: true
 _type: Blurb
 
 ---
