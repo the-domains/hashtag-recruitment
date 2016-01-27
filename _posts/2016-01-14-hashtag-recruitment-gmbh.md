@@ -7,9 +7,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T20:36:22.529Z'
-dateModified: '2016-01-27T20:33:54.001Z'
-title: 'hashtag Recruitment GmbH, SWITZERLAND'
+datePublished: '2016-01-27T20:39:43.429Z'
+dateModified: '2016-01-27T20:39:40.762Z'
+title: hashtag Recruitment GmbH
 author: []
 sourcePath: _posts/2016-01-14-hashtag-recruitment-gmbh.md
 published: true
