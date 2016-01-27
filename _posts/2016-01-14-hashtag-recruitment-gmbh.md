@@ -2,13 +2,12 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-27T20:39:43.429Z'
-dateModified: '2016-01-27T20:39:40.762Z'
+datePublished: '2016-01-27T20:47:50.166Z'
+dateModified: '2016-01-27T20:46:27.740Z'
 title: hashtag Recruitment GmbH
 author: []
 sourcePath: _posts/2016-01-14-hashtag-recruitment-gmbh.md
@@ -23,4 +22,4 @@ _type: Blurb
 
 ---
 Welcome to hashtag Recruitment!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f77dc012-9e3c-4eec-b035-06891e3e5e29.tif)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/30b9be7b-ead1-446f-9135-42bf502c4f2f.jpg)
